@@ -1,0 +1,8 @@
+.header-container{
+  display: block;
+  padding: 1em;
+  text-align: center;
+}
+.header-container img {
+  width: 10em;
+}
